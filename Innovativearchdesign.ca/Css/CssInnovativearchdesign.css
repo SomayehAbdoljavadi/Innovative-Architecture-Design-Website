@@ -1,0 +1,281 @@
+#Sit_Body
+{
+    background-color: #484848;
+}
+#MainPanel
+{
+	position:absolute;
+	top:0px;left:0px;right:0px;bottom:0px;
+       
+	
+	
+}
+ 
+
+#BackgroundImage
+{
+	position:absolute;
+	top:0px;left:0px;right:0px;bottom:0px;
+	height:100%;
+	width:100%;
+}
+#MenuTopMiddle a
+{
+	text-decoration:none;
+	font-family:  Arial,sans-serif,Helvetica,BMitra;
+	font-size:8pt;
+                   border: hidden;
+                   
+}
+
+#MiddleDownData
+{
+	position:relative;
+	top:92%;
+	left:0px;
+	right:0px;
+	color: #DEDEDE;
+	font-family: BMitra,"Myriad Pro", Arial, Helvetica, sans-serif;
+	font-size:8pt;
+                   border: hidden;
+        
+        
+}
+#MiddleDownData a 
+{
+	color:#DEDEDE;
+	text-decoration:none;
+	font-family: BMitra,"Myriad Pro",Arial, Helvetica, sans-serif;
+	font-size:10pt;
+                   border: hidden;
+}
+#MiddleDownData a :hover
+{
+	color:#DEDEDE;
+	text-decoration:none;
+	font-family: BMitra,"Myriad Pro", Arial, Helvetica, sans-serif;
+	font-size:10pt;
+        border:  hidden;
+}
+
+.D_Contact
+{
+	display:inline;
+        border-color:  #1ABC9C;
+        
+        
+}
+.D_Contact img
+{
+	width:32px;
+	height:32px;
+        border: hidden;
+       
+}
+
+#MenuTopMiddle
+{
+position:absolute;
+	top:5%;
+	right:65%;
+	height:30px;
+	color:#DEDEDE;
+border: hidden;
+
+        
+}
+#FullTop
+{
+        position:relative;
+        
+	width:800px;
+	height:32px;
+  
+        
+	
+}
+#MenuBar
+{
+	position:absolute;
+	left:350px;top:0px;bottom:0px;right:120px;
+                   height:60px;
+	vertical-align:middle;
+	padding:0px;
+	margin:0px;
+                   border-radius: 5px;
+                   z-index: 1;
+                
+
+        
+}
+
+#Menu_back
+{
+       position:absolute;
+	left:350px;top:0px;bottom:0px;right:-200px;
+                   height:32px;
+	
+	vertical-align:middle;
+	padding:0px;
+	margin:0px;
+        border-radius: 6px; 
+        background: #1ABC9C;
+        
+     
+}
+
+
+#SearchBox
+{
+	position:absolute;
+	left:-150px;bottom:0px;
+         
+	width:32px;
+        
+	height:32px;
+	border:2px #1ABC9C solid;
+	border-radius:15px;
+	vertical-align: top;
+      
+        text-align: center;
+        z-index: 1;
+        
+        
+       
+}
+
+
+#SearchBtn
+{
+	position:absolute;
+	background:url("../Images/BasePage/Search.png") no-repeat;
+	top:7px;right:6px;
+	background-position:  0px 0px;
+	background-repeat: no-repeat;
+	width:15px;
+	height:15px;
+	background-color: non;
+	
+	outline: 0;
+	border: none;
+        text-align: center;
+        cursor: pointer;
+        z-index: 1;
+}
+#SearchInput
+{
+	background: none;
+	color: #DEDEDE;
+	border: 0px;
+	height:100%;
+	width:100%;
+	font-family: BMitra,"Myriad Pro", Arial, Helvetica, sans-serif;
+	font-size:13pt;
+	vertical-align:middle;
+	padding:0px;
+	margin:0px;
+        text-align:  center;
+  
+        cursor: inherit;
+       z-index: 1;
+      
+        
+}
+#SearchInput:focus
+{
+    outline: 0;
+    border:hidden;
+    cursor:  inherit;
+    
+}
+
+
+
+
+#TopMenuPlaceHolder
+{
+	position:absolute;
+	top:0px;left:0px;bottom:0px;right:0px;
+	padding-top:2px;
+	vertical-align:middle;
+	
+	margin-top:5px;
+}
+
+#h1-m
+{
+	height:32px;
+	padding:0px;
+	margin:0px;
+        
+}
+.ParentMenu
+{
+	height:100%;
+	width:82px;
+	display:inline-block;
+	background-color:none;
+	text-align:center;
+	padding:0px;
+	margin:0px;
+	top:-10px;
+	vertical-align:middle;
+}
+.ParentMenuSelected
+{
+	height:100%;
+	width:82px;
+	display:inline-block;
+	text-align:center;
+	
+	color:#66c901;
+	padding:0px;
+	margin:0px;
+	top:-2px;
+	cursor:pointer;
+	vertical-align:middle;
+      
+}
+
+span .tab{
+    padding: 0 20px; 
+}
+.CircleDiv
+{
+	border-radius:100%;
+	height:16px;
+	width:16px;
+	background-color: #DEDEDE;
+	display:inline-block;
+}
+.ClassHidden
+{
+	display:none;
+}
+
+#SlidShow
+{
+         position:relative;
+         top:100px;
+                   height:520px;
+              
+	
+	padding:0px;
+	margin:0px;
+        border-radius: 10px; 
+        background:   red ;
+       opacity: 0.7;
+}
+
+
+
+#footer 
+{
+   
+   font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    color: #1ABC9C;
+   
+}
+
+
